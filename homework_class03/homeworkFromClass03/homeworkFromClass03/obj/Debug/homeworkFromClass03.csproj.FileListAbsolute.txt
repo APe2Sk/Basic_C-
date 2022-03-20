@@ -1,0 +1,7 @@
+C:\Users\Aleksandar\Desktop\Seavus - Web Development 2021\4. C# Basic\homework_class03\homeworkFromClass03\homeworkFromClass03\bin\Debug\homeworkFromClass03.exe.config
+C:\Users\Aleksandar\Desktop\Seavus - Web Development 2021\4. C# Basic\homework_class03\homeworkFromClass03\homeworkFromClass03\bin\Debug\homeworkFromClass03.exe
+C:\Users\Aleksandar\Desktop\Seavus - Web Development 2021\4. C# Basic\homework_class03\homeworkFromClass03\homeworkFromClass03\bin\Debug\homeworkFromClass03.pdb
+C:\Users\Aleksandar\Desktop\Seavus - Web Development 2021\4. C# Basic\homework_class03\homeworkFromClass03\homeworkFromClass03\obj\Debug\homeworkFromClass03.csproj.AssemblyReference.cache
+C:\Users\Aleksandar\Desktop\Seavus - Web Development 2021\4. C# Basic\homework_class03\homeworkFromClass03\homeworkFromClass03\obj\Debug\homeworkFromClass03.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandar\Desktop\Seavus - Web Development 2021\4. C# Basic\homework_class03\homeworkFromClass03\homeworkFromClass03\obj\Debug\homeworkFromClass03.exe
+C:\Users\Aleksandar\Desktop\Seavus - Web Development 2021\4. C# Basic\homework_class03\homeworkFromClass03\homeworkFromClass03\obj\Debug\homeworkFromClass03.pdb
