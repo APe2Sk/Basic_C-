@@ -1,0 +1,7 @@
+C:\Users\Aleksandar\Desktop\Seavus - Web Development 2021\4. C# Basic\homeworks_Basic_C_Sharp\Basic_CSharp\homework_class05\homeworkExercice\homeworkExercice\bin\Debug\homeworkExercice.exe.config
+C:\Users\Aleksandar\Desktop\Seavus - Web Development 2021\4. C# Basic\homeworks_Basic_C_Sharp\Basic_CSharp\homework_class05\homeworkExercice\homeworkExercice\bin\Debug\homeworkExercice.exe
+C:\Users\Aleksandar\Desktop\Seavus - Web Development 2021\4. C# Basic\homeworks_Basic_C_Sharp\Basic_CSharp\homework_class05\homeworkExercice\homeworkExercice\bin\Debug\homeworkExercice.pdb
+C:\Users\Aleksandar\Desktop\Seavus - Web Development 2021\4. C# Basic\homeworks_Basic_C_Sharp\Basic_CSharp\homework_class05\homeworkExercice\homeworkExercice\obj\Debug\homeworkExercice.csproj.AssemblyReference.cache
+C:\Users\Aleksandar\Desktop\Seavus - Web Development 2021\4. C# Basic\homeworks_Basic_C_Sharp\Basic_CSharp\homework_class05\homeworkExercice\homeworkExercice\obj\Debug\homeworkExercice.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandar\Desktop\Seavus - Web Development 2021\4. C# Basic\homeworks_Basic_C_Sharp\Basic_CSharp\homework_class05\homeworkExercice\homeworkExercice\obj\Debug\homeworkExercice.exe
+C:\Users\Aleksandar\Desktop\Seavus - Web Development 2021\4. C# Basic\homeworks_Basic_C_Sharp\Basic_CSharp\homework_class05\homeworkExercice\homeworkExercice\obj\Debug\homeworkExercice.pdb
