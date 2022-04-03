@@ -1,0 +1,14 @@
+C:\Users\Aleksandar\Desktop\Seavus - Web Development 2021\4. C# Basic\homeworks_Basic_C_Sharp\Basic_CSharp\homework_class09\Homework09\Homework09\bin\Debug\netcoreapp3.1\Homework09.exe
+C:\Users\Aleksandar\Desktop\Seavus - Web Development 2021\4. C# Basic\homeworks_Basic_C_Sharp\Basic_CSharp\homework_class09\Homework09\Homework09\bin\Debug\netcoreapp3.1\Homework09.deps.json
+C:\Users\Aleksandar\Desktop\Seavus - Web Development 2021\4. C# Basic\homeworks_Basic_C_Sharp\Basic_CSharp\homework_class09\Homework09\Homework09\bin\Debug\netcoreapp3.1\Homework09.runtimeconfig.json
+C:\Users\Aleksandar\Desktop\Seavus - Web Development 2021\4. C# Basic\homeworks_Basic_C_Sharp\Basic_CSharp\homework_class09\Homework09\Homework09\bin\Debug\netcoreapp3.1\Homework09.runtimeconfig.dev.json
+C:\Users\Aleksandar\Desktop\Seavus - Web Development 2021\4. C# Basic\homeworks_Basic_C_Sharp\Basic_CSharp\homework_class09\Homework09\Homework09\bin\Debug\netcoreapp3.1\Homework09.dll
+C:\Users\Aleksandar\Desktop\Seavus - Web Development 2021\4. C# Basic\homeworks_Basic_C_Sharp\Basic_CSharp\homework_class09\Homework09\Homework09\bin\Debug\netcoreapp3.1\Homework09.pdb
+C:\Users\Aleksandar\Desktop\Seavus - Web Development 2021\4. C# Basic\homeworks_Basic_C_Sharp\Basic_CSharp\homework_class09\Homework09\Homework09\obj\Debug\netcoreapp3.1\Homework09.csproj.AssemblyReference.cache
+C:\Users\Aleksandar\Desktop\Seavus - Web Development 2021\4. C# Basic\homeworks_Basic_C_Sharp\Basic_CSharp\homework_class09\Homework09\Homework09\obj\Debug\netcoreapp3.1\Homework09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aleksandar\Desktop\Seavus - Web Development 2021\4. C# Basic\homeworks_Basic_C_Sharp\Basic_CSharp\homework_class09\Homework09\Homework09\obj\Debug\netcoreapp3.1\Homework09.AssemblyInfoInputs.cache
+C:\Users\Aleksandar\Desktop\Seavus - Web Development 2021\4. C# Basic\homeworks_Basic_C_Sharp\Basic_CSharp\homework_class09\Homework09\Homework09\obj\Debug\netcoreapp3.1\Homework09.AssemblyInfo.cs
+C:\Users\Aleksandar\Desktop\Seavus - Web Development 2021\4. C# Basic\homeworks_Basic_C_Sharp\Basic_CSharp\homework_class09\Homework09\Homework09\obj\Debug\netcoreapp3.1\Homework09.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandar\Desktop\Seavus - Web Development 2021\4. C# Basic\homeworks_Basic_C_Sharp\Basic_CSharp\homework_class09\Homework09\Homework09\obj\Debug\netcoreapp3.1\Homework09.dll
+C:\Users\Aleksandar\Desktop\Seavus - Web Development 2021\4. C# Basic\homeworks_Basic_C_Sharp\Basic_CSharp\homework_class09\Homework09\Homework09\obj\Debug\netcoreapp3.1\Homework09.pdb
+C:\Users\Aleksandar\Desktop\Seavus - Web Development 2021\4. C# Basic\homeworks_Basic_C_Sharp\Basic_CSharp\homework_class09\Homework09\Homework09\obj\Debug\netcoreapp3.1\Homework09.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+C:\Users\Aleksandar\Desktop\Seavus - Web Development 2021\4. C# Basic\homeworks_Basic_C_Sharp\Basic_CSharp\homework_class07\Inheritance\Classes\bin\Debug\netcoreapp3.1\Classes.deps.json
+C:\Users\Aleksandar\Desktop\Seavus - Web Development 2021\4. C# Basic\homeworks_Basic_C_Sharp\Basic_CSharp\homework_class07\Inheritance\Classes\bin\Debug\netcoreapp3.1\Classes.dll
+C:\Users\Aleksandar\Desktop\Seavus - Web Development 2021\4. C# Basic\homeworks_Basic_C_Sharp\Basic_CSharp\homework_class07\Inheritance\Classes\bin\Debug\netcoreapp3.1\Classes.pdb
+C:\Users\Aleksandar\Desktop\Seavus - Web Development 2021\4. C# Basic\homeworks_Basic_C_Sharp\Basic_CSharp\homework_class07\Inheritance\Classes\obj\Debug\netcoreapp3.1\Classes.csproj.AssemblyReference.cache
+C:\Users\Aleksandar\Desktop\Seavus - Web Development 2021\4. C# Basic\homeworks_Basic_C_Sharp\Basic_CSharp\homework_class07\Inheritance\Classes\obj\Debug\netcoreapp3.1\Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aleksandar\Desktop\Seavus - Web Development 2021\4. C# Basic\homeworks_Basic_C_Sharp\Basic_CSharp\homework_class07\Inheritance\Classes\obj\Debug\netcoreapp3.1\Classes.AssemblyInfoInputs.cache
+C:\Users\Aleksandar\Desktop\Seavus - Web Development 2021\4. C# Basic\homeworks_Basic_C_Sharp\Basic_CSharp\homework_class07\Inheritance\Classes\obj\Debug\netcoreapp3.1\Classes.AssemblyInfo.cs
+C:\Users\Aleksandar\Desktop\Seavus - Web Development 2021\4. C# Basic\homeworks_Basic_C_Sharp\Basic_CSharp\homework_class07\Inheritance\Classes\obj\Debug\netcoreapp3.1\Classes.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandar\Desktop\Seavus - Web Development 2021\4. C# Basic\homeworks_Basic_C_Sharp\Basic_CSharp\homework_class07\Inheritance\Classes\obj\Debug\netcoreapp3.1\Classes.dll
+C:\Users\Aleksandar\Desktop\Seavus - Web Development 2021\4. C# Basic\homeworks_Basic_C_Sharp\Basic_CSharp\homework_class07\Inheritance\Classes\obj\Debug\netcoreapp3.1\Classes.pdb

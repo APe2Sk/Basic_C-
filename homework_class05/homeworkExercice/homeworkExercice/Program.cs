@@ -120,11 +120,10 @@ namespace homeworkExercice
                 return x;
             }
 
-            if(res1 != 1 || res1 != 2 || res1 != 3 || res1 != 4)
+            if(res1 != 1 && res1 != 2 && res1 != 3 && res1 != 4)
             {
                 string[] x = new string[0];
-                x[0] = "You entered error number.";
-                Console.WriteLine(x[0]);
+                Console.WriteLine("You entered error number.");
                 return x;
             }
 

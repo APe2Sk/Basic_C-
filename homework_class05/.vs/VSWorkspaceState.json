@@ -2,7 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\homeworkExercice",
-    "\\homeworkExercice\\homeworkExercice"
+    "\\homeworkExercice\\homeworkExercice",
+    "\\homeworkExercice\\homeworkExercice\\Models"
   ],
+  "SelectedNode": "\\homeworkExercice\\homeworkExercice\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
